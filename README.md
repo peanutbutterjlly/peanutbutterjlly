@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peanutbutterjlly
 - 👀 I’m interested in all things web development
-- 📫 How to reach me: steverios_sr@yahoo.com or steve@srios.net
+- 📫 How to reach me: steve@srios.net
 
 <!---
 peanutbutterjlly/peanutbutterjlly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
